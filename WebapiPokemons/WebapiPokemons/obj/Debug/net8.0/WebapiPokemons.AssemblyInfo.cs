@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebapiPokemons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87fc2ac67afb0a762fa2397f66dcda54cd66a793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52d6f535ba106ff52392b49c45fac5f50a4da3cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebapiPokemons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebapiPokemons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
