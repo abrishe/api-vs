@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|c:\\users\\abraraw\\source\\repos\\api-abra\\webapidesdegit\\api-vs\\webapipokemons\\webapipokemons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|solutionrelative:webapipokemons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|c:\\users\\abraraw\\source\\repos\\api-abra\\webapidesdegit\\api-vs\\webapipokemons\\webapipokemons\\controllers\\pokemonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|solutionrelative:webapipokemons\\controllers\\pokemonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|c:\\users\\abraraw\\source\\repos\\api-abra\\webapidesdegit\\api-vs\\webapipokemons\\webapipokemons\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|solutionrelative:webapipokemons\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|c:\\users\\abraraw\\source\\repos\\api-abra\\webapidesdegit\\api-vs\\webapipokemons\\webapipokemons\\entidades\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|solutionrelative:webapipokemons\\entidades\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|c:\\users\\abraraw\\source\\repos\\api-abra\\webapidesdegit\\api-vs\\webapipokemons\\webapipokemons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|solutionrelative:webapipokemons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +38,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Entidades\\Pokemon.cs",
+              "RelativeDocumentMoniker": "WebapiPokemons\\Entidades\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Entidades\\Pokemon.cs",
+              "RelativeToolTip": "WebapiPokemons\\Entidades\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:18:07.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PokemonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Controllers\\PokemonsController.cs",
+              "RelativeDocumentMoniker": "WebapiPokemons\\Controllers\\PokemonsController.cs",
+              "ToolTip": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Controllers\\PokemonsController.cs",
+              "RelativeToolTip": "WebapiPokemons\\Controllers\\PokemonsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:14:43.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Program.cs",
               "RelativeDocumentMoniker": "WebapiPokemons\\Program.cs",
               "ToolTip": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Program.cs",
               "RelativeToolTip": "WebapiPokemons\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T13:31:44.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebapiPokemons\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebapiPokemons\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:29:13.229Z",
               "EditorCaption": ""
             }
           ]

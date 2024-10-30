@@ -1,15 +1,15 @@
 [
   {
-    "ContainingType": "WebapiPokemons.Controllers.WeatherForecastController",
+    "ContainingType": "WebapiPokemons.Controllers.PokemonsController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "api/pokemons",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebapiPokemons.WeatherForecast, WebapiPokemons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[WebapiPokemons.Entidades.Pokemon, WebapiPokemons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -17,7 +17,6 @@
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
   }
 ]
