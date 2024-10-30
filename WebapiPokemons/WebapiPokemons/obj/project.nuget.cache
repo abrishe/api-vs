@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDoWHwaxk5Y=",
+  "dgSpecHash": "Ywm786Kgdx4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\WebapiPokemons\\WebapiPokemons\\WebapiPokemons.csproj",
+  "projectFilePath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\WebapiPokemons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abraraw\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Abraraw\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

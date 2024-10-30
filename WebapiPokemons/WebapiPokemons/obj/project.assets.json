@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\WebapiPokemons\\WebapiPokemons\\WebapiPokemons.csproj",
+      "projectUniqueName": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\WebapiPokemons.csproj",
       "projectName": "WebapiPokemons",
-      "projectPath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\WebapiPokemons\\WebapiPokemons\\WebapiPokemons.csproj",
+      "projectPath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\WebapiPokemons.csproj",
       "packagesPath": "C:\\Users\\Abraraw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\WebapiPokemons\\WebapiPokemons\\obj\\",
+      "outputPath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abraraw\\AppData\\Roaming\\NuGet\\NuGet.Config",
