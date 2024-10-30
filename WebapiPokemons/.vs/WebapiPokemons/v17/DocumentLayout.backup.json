@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|c:\\users\\abraraw\\source\\repos\\api-abra\\webapidesdegit\\api-vs\\webapipokemons\\webapipokemons\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|solutionrelative:webapipokemons\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebapiPokemons\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebapiPokemons\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:29:13.229Z",
+              "EditorCaption": ""
             }
           ]
         }

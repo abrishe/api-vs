@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebapiPokemons\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|c:\\users\\abraraw\\source\\repos\\api-abra\\webapidesdegit\\api-vs\\webapipokemons\\webapipokemons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|solutionrelative:webapipokemons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|c:\\users\\abraraw\\source\\repos\\api-abra\\webapidesdegit\\api-vs\\webapipokemons\\webapipokemons\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3056F1-3E87-4141-916F-635F26AB83C5}|WebapiPokemons\\WebapiPokemons.csproj|solutionrelative:webapipokemons\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "WebapiPokemons\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "WebapiPokemons\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Program.cs",
+              "RelativeDocumentMoniker": "WebapiPokemons\\Program.cs",
+              "ToolTip": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Program.cs",
+              "RelativeToolTip": "WebapiPokemons\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:20:48.372Z",
+              "WhenOpened": "2024-10-30T13:31:44.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebapiPokemons\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Abraraw\\source\\repos\\API-Abra\\webapidesdeGit\\api-vs\\WebapiPokemons\\WebapiPokemons\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebapiPokemons\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:29:13.229Z",
               "EditorCaption": ""
             }
           ]
